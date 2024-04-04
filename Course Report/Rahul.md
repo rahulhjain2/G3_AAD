@@ -15,7 +15,7 @@
 
 ## Qualifications: Pursuing 3rd year Btech
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Android App Development! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,6 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                | Link                                                                                                                |
 |------------------------------------------- |---------------------------------------------------------------------------------------------------------------------|
-| Mini Projects: Simple Dice Roller          | https://github.com/sure-trust/G3_AAD/tree/main/Mini%20Projects/Rahul%20Hirawat                                      |
-|                 & News Feed Application    |                                                                                                                     |
-| Final Project: E-Commerece Application     | https://github.com/sure-trust/G3_AAD/tree/main/Final%20Capstone%20Projects/Rahul%20Hirawat/FashionFlair                                                                                                                   |
+| Mini Projects: Simple Dice Roller , & News Feed Application        | [click here](https://github.com/sure-trust/G3_AAD/tree/main/Mini%20Projects/Rahul%)|                     
+| Final Project: E-Commerece Application     | [click here](https://github.com/sure-trust/G3_AAD/tree/main/Final%20Capstone%20Projects/Rahul%20Hirawat/FashionFlair)           |
